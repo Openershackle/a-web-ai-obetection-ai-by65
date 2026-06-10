@@ -1,4 +1,4 @@
-# 
+# Lightweight A web AI object detection tools. Featuring real-time-processing and AI-security — optimized for maximum performance.
 
 
 
